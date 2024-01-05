@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983312703503",
+    "project_id": "centsible-f8864",
+    "storage_bucket": "centsible-f8864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983312703503:android:47f67e57f66b89db0f837a",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC52Bckq1gYfgRQxHLjx1l4yP9h9riS9x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

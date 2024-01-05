@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
           // good morning bro
           const Padding(
             padding: EdgeInsets.symmetric(horizontal: 24.0),
-            child: Text('Good morning,'),
+            child: Text('Welcome'),
           ),
 
           const SizedBox(height: 4),

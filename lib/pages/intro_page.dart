@@ -19,14 +19,14 @@ class IntroPage extends StatelessWidget{
                 top: 120,
                 bottom: 20,
               ),
-              child: Image.asset('lib/images/avocado.png'),
+              child: Image.asset('lib/images/cart.png'),
             ),
 
             // we deliver groceries at your doorstep
             const Padding(
               padding: EdgeInsets.all(28.0),
               child: Text(
-                "We deliver groceries at your doorstep",
+                "CENTSIBLE CART TRACKER",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 35,
@@ -37,7 +37,7 @@ class IntroPage extends StatelessWidget{
 
             // grocery gives you fresh vegetables and fruits
             Text(
-              'Fresh items everyday',
+              'Track your expenses!',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 16,
